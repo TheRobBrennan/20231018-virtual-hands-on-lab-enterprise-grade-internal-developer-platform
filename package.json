@@ -1,0 +1,19 @@
+{
+  "name": "20231018-virtual-hands-on-lab-enterprise-grade-internal-developer-platform",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/20231018-virtual-hands-on-lab-enterprise-grade-internal-developer-platform.git"
+  },
+  "author": "Rob Brennan <rob@therobbrennan.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/20231018-virtual-hands-on-lab-enterprise-grade-internal-developer-platform/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/20231018-virtual-hands-on-lab-enterprise-grade-internal-developer-platform#readme"
+}
